@@ -6,3 +6,29 @@ body{
 	background-color: #fff;
 	
 	}
+	
+p{
+	
+	color: #6A6969;
+	
+	}	
+	
+h1, .jumbotron h1, .jumbotron p{
+	color: #0E828C;
+	
+	}
+	
+.btn-custom{
+	
+	background-color: #666;
+	color: white;
+	border-radius: 0px;
+	
+	}
+	
+.btn-custom:hover{
+	
+	color: #fff;
+	background-color: #239AA4
+	
+	}	
